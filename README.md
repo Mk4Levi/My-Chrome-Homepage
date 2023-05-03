@@ -1,4 +1,4 @@
-# MK-Homepage
+# MK-Chrome Homepage
 
 Quick start:
 
