@@ -38,7 +38,7 @@ http://localhost:5173
 
 <h2>Paths & Files</h2>
 
-### Structure of the Files in this Repo :
+### Structure of the Files in this Repo  :
 
 ```text
 .
