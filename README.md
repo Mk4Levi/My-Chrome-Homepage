@@ -1,8 +1,3 @@
-# MK-Homepage
+# MK Chrome Homepage
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-```
+## Project's Live Website Link => https://mk-chrome-home.vercel.app/
